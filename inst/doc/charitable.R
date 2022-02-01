@@ -40,6 +40,25 @@ if (requireNamespace("modelsummary")){
 ## -----------------------------------------------------------------------------
 haustest(scls, ml, omit = "(Intercept)")
 
+## -----------------------------------------------------------------------------
+library("cmtest")
+cmtest(ml)
+
+## ----include = FALSE----------------------------------------------------------
+cmtest(ml_aer)
+cmtest(ml_creg)
+
+## -----------------------------------------------------------------------------
+cmtest(ml, test = "heterosc")
+
+## -----------------------------------------------------------------------------
+cmtest(ml, test = "normality", OPG = TRUE)
+cmtest(ml, test = "heterosc", OPG = TRUE)
+
+## -----------------------------------------------------------------------------
+cmtest(ml, test = "skewness")
+cmtest(ml, test = "kurtosis")
+
 ## ----histnorm, fig.cap = "Empirical distribution of the response and normal approximation"----
 if (requireNamespace("ggplot2") & requireNamespace("dplyr")){
     library("ggplot2")

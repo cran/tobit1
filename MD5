@@ -1,6 +1,6 @@
-e0bf63fc2a17c42e910f6d85affa8961 *DESCRIPTION
+43cf3043f05079b5ff9d742133debeb4 *DESCRIPTION
 f8e782027e03d1ec0c0decbe21c958bb *NAMESPACE
-72a8d0d259f8186782031b967dfe842e *NEWS.md
+8cc4a7b14ddaf005da8c2c99a55d99d5 *NEWS.md
 34cc483a68b2129b7afe0bceb6d1085a *R/datasets.R
 c64a93ab55b00d5386bfa18d8fc24285 *R/foreign_pkgs.R
 9f936b10600708e16805d2b651231295 *R/ivtobit.R
@@ -10,16 +10,16 @@ dd9c526db28d636e5836f19ce1a9d709 *R/lnl_tp.R
 687fe292f9f602de7b6eadc03818afe7 *R/tests.R
 67ef5ff2ffe465fc7b7505ff05329134 *R/tobit1.R
 62489d975455739add0193de2c852611 *README.md
-d6e9e002a382401a895a5a7a4322933a *build/partial.rdb
+a3ad3ca258daf5806fabf531fc02bdbd *build/partial.rdb
 c63bf2bf4993aae835f8a04cceb8d177 *build/vignette.rds
 514225c58ffb5dca1c7efdeab5e957a9 *data/charitable.rda
 91e2cbc9a21c557aebc74c76c21ded67 *data/feesadm.rda
 78b58eaedaef4e6a44864dc9fb4e370b *data/moffitt.rda
 1aa6960b40c441506b2eb7189e07e670 *data/tradeprotection.rda
 69c44dc1b7cef0c8359213ad21e04b55 *inst/REFERENCES.bib
-371d3e0941edf2a6296c2e3eeeaf2767 *inst/doc/charitable.R
-63c82a0c436c888557b96a1e9f410da2 *inst/doc/charitable.Rmd
-02fb851248e00fbf415f6e61bfcb7bb8 *inst/doc/charitable.html
+28d6341d40b2c59ccfe45ceca011384f *inst/doc/charitable.R
+b551479017f201a82b58f60ec1427ce0 *inst/doc/charitable.Rmd
+16b001d0c5a5a9d66102bf9a2e58f592 *inst/doc/charitable.html
 d1286687585a2d5fa6a8a68c778d88d5 *man/broom.Rd
 b6c80aad215cfa6ccb17736568dbba9c *man/charitable.Rd
 ad0c6289bd048283c70df0f650d65732 *man/feesadm.Rd
@@ -31,4 +31,4 @@ f71a015743340c600e150e111cada21f *man/prediction_margins.Rd
 14cf3556b36a8d208fee98b200b77bbf *man/smbltest.Rd
 083de7bb066a237cbf59262190b50293 *man/tobit1.Rd
 1d563b8c70f9221f10b5d9d69c0e9319 *man/tradeprotection.Rd
-63c82a0c436c888557b96a1e9f410da2 *vignettes/charitable.Rmd
+b551479017f201a82b58f60ec1427ce0 *vignettes/charitable.Rmd
